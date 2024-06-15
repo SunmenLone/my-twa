@@ -1,7 +1,7 @@
 {
-    name: 'Sunmen Jetton',
-    description: 'Sunmen Jetton',
-    symbol: 'SMJ',
+    name: 'Sunmen Jetton1',
+    description: 'Sunmen Jetton1',
+    symbol: 'SMJ1',
     decimals: 0,
     image: 'https://sunmenlone.github.io/my-twa/gis-scenes.png',
 }
